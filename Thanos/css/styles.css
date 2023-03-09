@@ -1,0 +1,227 @@
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Rampart+One&family=Rubik+Iso&display=swap');
+
+/* font-family: 'Cinzel', serif;
+font-family: 'Rampart One', cursive;
+font-family: 'Rubik Iso', cursive;
+ */
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.hnav {
+	width: 100%;
+	background-color: #11181E88;
+	min-height: 50px;
+	text-align: center;
+	font-family: 'Cinzel', serif;
+}
+
+.hnav ul {
+	display: block;
+	padding-top: .5em;
+}
+
+.hnav ul li {
+	display: inline-block;
+	width: 15%;
+	list-style-type: none;
+	padding: 0 .5%;
+}
+
+.hnav a {
+	text-decoration: none;
+	color: #E4F2EA;
+	font-size: 1.7em;
+	font-weight: bold;
+}
+
+.hnav a:hover {
+	background-color: mediumpurple;
+	color: #ffffff;
+}
+
+.mainpic {
+	min-height:650px;
+	border: 10px solid;
+	background-color: #00000088;
+	margin: 3% 5% 1% 5%;
+}
+
+.fnav {
+	width: 100%;
+	background-color: #00000088;
+	min-height: 50px;
+	text-align: center;
+	padding: .8em;
+	color: white;
+	font-family: 'Cinzel', serif;
+}
+
+.fnav ul {
+	display: block;
+	padding-top: .5em;
+}
+
+.fnav ul li {
+	display: inline-block;
+	width: 15%;
+	list-style-type: none;
+	padding: 0 .5%;
+}
+
+.fnav a {
+	text-decoration: none;
+	color: #E4F2EA;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.fnav a:hover {
+	background-color: mediumpurple;
+	color: #ffffff;
+}
+
+html {
+	background-color: mediumpurple;
+}
+
+h1 {
+	text-align: center;
+	font-size: 8em;
+	font-family: 'Rubik Iso', cursive;
+	color: white;
+}
+
+.maintext {
+	min-height:350px;
+	border: 10px #000000 solid;
+	background-color: #00000088;
+	margin: 0% 5% 5% 5%;
+	color: white;
+	padding-bottom: 0%;
+}
+
+h2 {
+	font-size: 3em;
+	font-family: 'Cinzel', serif;
+	text-align: center;
+	padding-bottom: 0%;
+}
+
+.deathssake {
+	background-image: url("..//images/deathsSake.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.deathsaketext {
+	font-size: 2em;
+	font-family: 'Rampart One', cursive;
+	padding-bottom: 0%;
+}
+	
+.titanpic {
+	min-height:650px;
+	border: 10px solid;
+	background-color: #00000088;
+	margin: 3% 5% 1% 5%;
+}
+
+.titantext {
+	min-height:350px;
+	border: 10px #000000 solid;
+	background-color: #00000088;
+	margin: 0% 5% 5% 5%;
+	color: white;
+	padding-bottom: 0%;
+	font-size: 2.5em;
+}
+
+/* table {
+	min-height: 300px;
+	margin: 0 auto;
+	font-size: 2em;
+	text-align: center;
+}
+
+#fName {
+	text-align: center;
+}
+
+#lName {
+	text-align: center;
+}
+
+#email {
+	text-align: center;
+}
+*/
+.bigtargettxt {
+	min-height:350px;
+	border: 10px #000000 solid;
+	background-color: #00000088;
+	margin: 0% 5% 5% 5%;
+	color: white;
+	padding-bottom: 0%;
+	font-size: 2.5em;
+}
+
+.targetpic {
+	min-height:650px;
+	border: 10px solid;
+	background-color: #00000088;
+	margin: 3% 5% 1% 5%;
+}
+
+form {
+  border: 4px solid #f1f1f1;
+}
+
+.container {
+  padding: 20px;
+  background-color: #f1f1f1;
+}
+
+
+input[type=text], input[type=submit] {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+input[type=checkbox] {
+  margin-top: 16px;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  border: none;
+}
+
+input[type=submit]:hover {
+  opacity: 0.8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
